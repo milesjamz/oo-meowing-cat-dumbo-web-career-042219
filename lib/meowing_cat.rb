@@ -1,1 +1,5 @@
-## code your solution here. 
+Class cat
+def name=(name)
+  @name
+  
+end
